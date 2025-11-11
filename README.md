@@ -2,6 +2,8 @@
 
 50 Projects in 50 Days Challenge aimed at improving my skills in HTML, CSS & JavaScript.
 
+All of these projects where hosted on Vercel — a platform that makes it easy to deploy websites and web applications on a high-performance global infrastructure.
+
 |  #  | Project                                                                                          | Live Demo                                                            |
 | :-: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/douglasdhein/50-projects-50-days/tree/main/expanding-cards) | [Live Demo](https://50-projects-50-days-expanding-cards.vercel.app/) |
