@@ -2,6 +2,7 @@
 
 50 Projects in 50 Days Challenge aimed at improving my skills in HTML, CSS & JavaScript.
 
-|  #  | Project                                                                                          | Live Demo                                                  |
-| :-: | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/douglasdhein/50-projects-50-days/tree/main/expanding-cards) | [Live Demo](https://50-projects-50-days-hazel.vercel.app/) |
+|  #  | Project                                                                                          | Live Demo                                                            |
+| :-: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/douglasdhein/50-projects-50-days/tree/main/expanding-cards) | [Live Demo](https://50-projects-50-days-expanding-cards.vercel.app/) |
+| 02  | [Progress Steps](https://github.com/douglasdhein/50-projects-50-days/tree/main/progress-steps)   | [Live Demo](https://50-projects-50-days-progress-steps.vercel.app/)  |
