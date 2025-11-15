@@ -10,3 +10,4 @@ All of these projects where hosted on Vercel — a platform that makes it easy t
 | 02  | [Progress Steps](https://github.com/douglasdhein/50-projects-50-days/tree/main/progress-steps)             | [Live Demo](https://50-projects-50-days-progress-steps.vercel.app/)       |
 | 03  | [Rotating Navigation](https://github.com/douglasdhein/50-projects-50-days/tree/main/rotating-navigation)   | [Live Demo](https://50-projects-50-days-rotating-navigation.vercel.app/)  |
 | 04  | [Hidden Search Widget](https://github.com/douglasdhein/50-projects-50-days/tree/main/hidden-search-widget) | [Live Demo](https://50-projects-50-days-hidden-search-widget.vercel.app/) |
+| 05  | [Blurry Loading](https://github.com/douglasdhein/50-projects-50-days/tree/main/blurry-loading)             | [Live Demo](https://50-projects-50-days-blurry-loading.vercel.app/)       |
