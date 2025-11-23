@@ -18,4 +18,4 @@ All of these projects where hosted on [Netlify](https://www.netlify.com/) — a 
 | 10  | [Dad Jokes](https://github.com/douglasdhein/50-projects-50-days/tree/main/dad-jokes)                       | [Live Demo](https://50-projects-50-days-dad-jokes.netlify.app/)         |
 | 11  | [Event Keycodes](https://github.com/douglasdhein/50-projects-50-days/tree/main/event-keycodes)             | [Live Demo](https://50-projects-50-days-event-keycodes.netlify.app/)    |
 | 12  | [FAQ Collapse](https://github.com/douglasdhein/50-projects-50-days/tree/main/faq-collapse)                 | [Live Demo](https://50-projects-50-days-faq-collapse.netlify.app/)      |
-| 12  | [Random Choice Picker](https://github.com/douglasdhein/50-projects-50-days/tree/main/random-choice-picker) | [Live Demo](https://50-projects-50-days-random-choice.netlify.app/)     |
+| 13  | [Random Choice Picker](https://github.com/douglasdhein/50-projects-50-days/tree/main/random-choice-picker) | [Live Demo](https://50-projects-50-days-random-choice.netlify.app/)     |
