@@ -19,3 +19,4 @@
 | 13  | [Random Choice Picker](https://github.com/douglasdhein/50-projects-50-days/tree/main/random-choice-picker) | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/random-choice-picker/) |
 | 14  | [Animated Navigation](https://github.com/douglasdhein/50-projects-50-days/tree/main/animated-navigation)   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/animated-navigation/)  |
 | 15  | [Incrementing Counter](https://github.com/douglasdhein/50-projects-50-days/tree/main/incrementing-counter) | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/incrementing-counter/) |
+| 16  | [Drink Water](https://github.com/douglasdhein/50-projects-50-days/tree/main/drink-water)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/drink-water/)          |
