@@ -21,3 +21,4 @@
 | 15  | [Incrementing Counter](https://github.com/douglasdhein/50-projects-50-days/tree/main/incrementing-counter) | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/incrementing-counter/) |
 | 16  | [Drink Water](https://github.com/douglasdhein/50-projects-50-days/tree/main/drink-water)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/drink-water/)          |
 | 17  | [Movie App](https://github.com/douglasdhein/50-projects-50-days/tree/main/movie-app)                       | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/movie-app/)            |
+| 18  | [Background Slider](https://github.com/douglasdhein/50-projects-50-days/tree/main/background-slider)       | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/background-slider/)    |
