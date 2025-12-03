@@ -27,3 +27,4 @@
 | 21  | [Drag And Drop](https://github.com/douglasdhein/50-projects-50-days/tree/main/drag-and-drop)               | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/drag-and-drop/)        |
 | 22  | [Drawing App](https://github.com/douglasdhein/50-projects-50-days/tree/main/drawing-app)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/drawing-app/)          |
 | 23  | [Kinetic Loader](https://github.com/douglasdhein/50-projects-50-days/tree/main/kinetic-loader)             | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/kinetic-loader/)       |
+| 24  | [Content Placeholder](https://github.com/douglasdhein/50-projects-50-days/tree/main/content-placeholder)   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/content-placeholder/)  |
