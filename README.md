@@ -28,3 +28,4 @@
 | 22  | [Drawing App](https://github.com/douglasdhein/50-projects-50-days/tree/main/drawing-app)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/drawing-app/)          |
 | 23  | [Kinetic Loader](https://github.com/douglasdhein/50-projects-50-days/tree/main/kinetic-loader)             | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/kinetic-loader/)       |
 | 24  | [Content Placeholder](https://github.com/douglasdhein/50-projects-50-days/tree/main/content-placeholder)   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/content-placeholder/)  |
+| 25  | [Sticky Navbar](https://github.com/douglasdhein/50-projects-50-days/tree/main/sticky-navbar)               | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/sticky-navbar/)        |
