@@ -30,3 +30,4 @@
 | 24  | [Content Placeholder](https://github.com/douglasdhein/50-projects-50-days/tree/main/content-placeholder)       | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/content-placeholder/)    |
 | 25  | [Sticky Navbar](https://github.com/douglasdhein/50-projects-50-days/tree/main/sticky-navbar)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/sticky-navbar/)          |
 | 26  | [Double Vertical Slider](https://github.com/douglasdhein/50-projects-50-days/tree/main/double-vertical-slider) | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/double-vertical-slider/) |
+| 27  | [Toast Notification](https://github.com/douglasdhein/50-projects-50-days/tree/main/toast-notification)         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/toast-notification/)     |
