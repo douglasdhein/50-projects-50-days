@@ -37,3 +37,4 @@
 | 31  | [Password Generator](https://github.com/douglasdhein/50-projects-50-days/tree/main/password-generator)         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/password-generator/)     |
 | 32  | [Good, Cheap, Fast](https://github.com/douglasdhein/50-projects-50-days/tree/main/good-cheap-fast)             | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/good-cheap-fast/)        |
 | 33  | [Notes App](https://github.com/douglasdhein/50-projects-50-days/tree/main/notes-app)                           | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/notes-app/)              |
+| 34  | [Animated Countdown](https://github.com/douglasdhein/50-projects-50-days/tree/main/animated-countdown)         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/animated-countdown/)     |
