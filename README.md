@@ -40,3 +40,4 @@
 | 34  | [Animated Countdown](https://github.com/douglasdhein/50-projects-50-days/tree/main/animated-countdown)         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/animated-countdown/)     |
 | 35  | [Image Carousel](https://github.com/douglasdhein/50-projects-50-days/tree/main/image-carousel)                 | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/image-carousel/)         |
 | 36  | [Hoverboard](https://github.com/douglasdhein/50-projects-50-days/tree/main/hoverboard)                         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/hoverboard/)             |
+| 37  | [Pokedex](https://github.com/douglasdhein/50-projects-50-days/tree/main/pokedex)                               | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/pokedex/)                |
