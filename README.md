@@ -48,3 +48,4 @@
 | 42  | [Live User Filter](https://github.com/douglasdhein/50-projects-50-days/tree/main/live-user-filter)                         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/live-user-filter/)             |
 | 43  | [Feedback Ui Design](https://github.com/douglasdhein/50-projects-50-days/tree/main/feedback-ui-design)                     | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/feedback-ui-design/)           |
 | 44  | [Custom Range Slider](https://github.com/douglasdhein/50-projects-50-days/tree/main/custom-range-slider)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/custom-range-slider/)          |
+| 45  | [Netflix Mobile Navigation](https://github.com/douglasdhein/50-projects-50-days/tree/main/netflix-mobile-navigation)       | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/netflix-mobile-navigation/)    |
