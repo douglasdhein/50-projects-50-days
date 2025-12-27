@@ -50,3 +50,4 @@
 | 44  | [Custom Range Slider](https://github.com/douglasdhein/50-projects-50-days/tree/main/custom-range-slider)                   | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/custom-range-slider/)          |
 | 45  | [Netflix Mobile Navigation](https://github.com/douglasdhein/50-projects-50-days/tree/main/netflix-mobile-navigation)       | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/netflix-mobile-navigation/)    |
 | 46  | [Quiz App](https://github.com/douglasdhein/50-projects-50-days/tree/main/quiz-app)                                         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/quiz-app/)                     |
+| 47  | [Testimonial Box Switcher](https://github.com/douglasdhein/50-projects-50-days/tree/main/testimonial-box-switcher)         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/testimonial-box-switcher/)     |
