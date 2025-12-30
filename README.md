@@ -53,3 +53,4 @@
 | 47  | [Testimonial Box Switcher](https://github.com/douglasdhein/50-projects-50-days/tree/main/testimonial-box-switcher)         | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/testimonial-box-switcher/)     |
 | 48  | [Random Image Feed](https://github.com/douglasdhein/50-projects-50-days/tree/main/random-image-generator)                  | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/random-image-generator/)       |
 | 49  | [To-do List](https://github.com/douglasdhein/50-projects-50-days/tree/main/to-do-list)                                     | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/to-do-list/)                   |
+| 50  | [Insect Catch Game](https://github.com/douglasdhein/50-projects-50-days/tree/main/insect-catch-game)                       | [Live Demo](https://douglasdhein.github.io/50-projects-50-days/insect-catch-game/)            |
